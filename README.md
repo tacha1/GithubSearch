@@ -29,3 +29,6 @@ Enter a username you use on github on search form.
 
 View user profile photo and their informations and their profile.
 
+## Technologies Used
+
+It used HTML, CSS,TypeScript, Javascript, Bootstrap and Angular.

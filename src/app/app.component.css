@@ -1,0 +1,8 @@
+.image{
+    background-image: url("../assets/images/flower.jpeg");
+    height: 1500px;
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

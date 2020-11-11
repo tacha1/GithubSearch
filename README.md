@@ -20,3 +20,8 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 ## Behavior Driven Development
 
 To be able to search a user on github and view all his informations, the projects they have made and their profile.
+
+### Input
+
+Enter a username you use on github on search form.
+

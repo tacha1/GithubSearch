@@ -25,3 +25,7 @@ To be able to search a user on github and view all his informations, the project
 
 Enter a username you use on github on search form.
 
+### Output
+
+View user profile photo and their informations and their profile.
+

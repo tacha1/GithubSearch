@@ -5,3 +5,7 @@ Github user search is a web application that is used to search a user who is on 
 ## Author
 
 Rosine Uwamariya
+
+## Description
+
+Github user search is a web application that is used to search a user who have a github account and view her/his github profile, see the reporsitories that you have and their description.

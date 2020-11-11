@@ -16,3 +16,7 @@ Run ng serve for a dev server. Navigate to ## Development server
 
 Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 . The app will automatically reload if you change any of the source files.
+
+## Behavior Driven Development
+
+To be able to search a user on github and view all his informations, the projects they have made and their profile.

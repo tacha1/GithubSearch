@@ -36,3 +36,11 @@ It used HTML, CSS,TypeScript, Javascript, Bootstrap and Angular.
 ## Support and contact details
 
 For any issues or questions, ideas or concern, please contact me on my e-mail: uwarosine10@gmail.com.
+
+### License
+
+MIT license
+
+Copyright (c) 2019 Moringa School
+
+Created with all the love in the world, enjoy it is free of charge.
